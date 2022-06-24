@@ -1,10 +1,8 @@
 # Teste IDE Eclipse 
 
-<p align="justify"> 
-
-Repositório criado para testar a funcionalidade de versionamento de código com Git da IDE Eclipse. Este projeto é uma das atividades propostas durante o curso _Dominando IDEs Java_, que faz parte dos bootcamps GFT Start Woman Java e GFT Start 5# Java, disponibilizados na plataforma [DIO Inc.](https://web.dio.me/).   
-
-</p>
+<p align="justify">  
+Repositório criado para testar a funcionalidade de versionamento de código com Git da IDE Eclipse. Este projeto é uma das atividades propostas durante o curso _Dominando IDEs Java_, que faz parte dos bootcamps GFT Start Woman Java e GFT Start 5# Java, disponibilizados na plataforma https://web.dio.me/.  
+</p>  
 
 ---
 
